@@ -10,6 +10,7 @@ import com.github.sunflowerlb.service.IDemoService;
 @RestController
 public class IndexController {
 
+	
 	@Resource
 	private IDemoService demoService;
 	
